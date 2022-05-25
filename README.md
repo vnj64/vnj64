@@ -10,6 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vnj64)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vnj644)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Follow me
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-Hi8jmCpe0db7OPMindEZQ)
@@ -17,4 +18,4 @@
 [![VKONTAKTE](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vnj64)
 
 ### Stats
-[![vnj64 GitHub stats](https://github-readme-stats.vercel.app/api?username=vnj64&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![vnj64 GitHub stats](https://github-readme-stats.vercel.app/api?username=vnj64&show_icons=true)]
