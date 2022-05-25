@@ -31,4 +31,4 @@ I am a junior in Python and for today I have a bunch of useful skills in coding.
 [![VKONTAKTE](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vnj64)
 
 ### Stats
-![vnj64 GitHub stats](https://github-readme-stats.vercel.app/api?username=vnj64&show_icons=true)]
+![vnj64 GitHub stats](https://github-readme-stats.vercel.app/api?username=vnj64&show_icons=true)
