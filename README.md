@@ -3,7 +3,6 @@
 ## I`m Python Junior Developer and i try my self in front end developing.
 
 ## Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-773EC0?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-513F6F?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -16,3 +15,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-Hi8jmCpe0db7OPMindEZQ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arszdarszd)
 [![VKONTAKTE](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vnj64)
+
+### Stats
+[![vnj64 GitHub stats](https://github-readme-stats.vercel.app/api?username=vnj64&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
