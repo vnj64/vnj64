@@ -1,6 +1,18 @@
 [![Header](https://github.com/vnj64/vnj64/blob/main/assets/ava.jpg)](https://en.wikipedia.org/wiki/Anonymous_(hacker_group)#:~:text=Anonymous%20is%20a%20decentralized%20international,and%20the%20Church%20of%20Scientology.)
+ 
+## I`m Python Junior Developer.
+I am a junior in Python and for today I have a bunch of useful skills in coding. There are some of them:
 
-## I`m Python Junior Developer and i try my self in front end developing.
+* Python (Django framework)
+* Git/GitHub/GitLab
+* Docker/Docker-compose
+* HTML/CSS
+
+  and some additional skills like Linux and PostgreSQL.
+  
+### I am not planning to stop at this point, this is just a milestone but not the destination
+
+
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-773EC0?style=for-the-badge&logo=python&logoColor=white)
