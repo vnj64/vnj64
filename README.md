@@ -12,7 +12,8 @@ I am a junior in Python and for today I have a bunch of useful skills in coding.
   
 ### I am not planning to stop at this point, this is just a milestone but not the destination
 
-
+* I`m currently working on "KayfIT restaurant"
+* How to reach me? tg: @arszdarszd
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-773EC0?style=for-the-badge&logo=python&logoColor=white)
