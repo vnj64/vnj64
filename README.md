@@ -3,7 +3,8 @@
 ## I`m Python Junior Developer.
 I am a junior in Python and for today I have a bunch of useful skills in coding. There are some of them:
 
-* Python (Django framework)
+* Python (web dev flask django, tg bots aiogram)
+* FastAPI
 * Git/GitHub/GitLab
 * Docker/Docker-compose
 * HTML/CSS
