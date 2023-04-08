@@ -13,7 +13,7 @@ I am a junior in Python and for today I have a bunch of useful skills in coding.
   
 ### I am not planning to stop at this point, this is just a milestone but not the destination
 
-* I`m currently working on "[VkCommentsBot](https://github.com/vnj64/VkCommentsBot)" its a little projects for educate.
+* I`m currently working on [VkCommentsBot](https://github.com/vnj64/VkCommentsBot) its a little projects for educate.
 * How to reach me? tg: [@arszdarszd](https://t.me/arszdarszd)
 
 ## Languages and Tools
