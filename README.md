@@ -1,11 +1,13 @@
 [![Header](https://github.com/vnj64/vnj64/blob/main/assets/github.png)](https://en.wikipedia.org/wiki/Anonymous_(hacker_group)#:~:text=Anonymous%20is%20a%20decentralized%20international,and%20the%20Church%20of%20Scientology.)
  
-## I`m Python Junior Developer.
-I am a junior in Python and for today I have a bunch of useful skills in coding. There are some of them:
+## I`m Java Backend Developer.
+I am a Backend Java Developer and for today I have a bunch of useful skills in coding. There are some of them:
 
-* Python (web dev flask django, tg bots aiogram)
-* FastAPI
+* Java
+* Spring Boot
+* Hibernate
 * Git/GitHub/GitLab
+* Python
 * Docker/Docker-compose
 * HTML/CSS
 
@@ -20,7 +22,6 @@ I am a junior in Python and for today I have a bunch of useful skills in coding.
 ![Python](https://img.shields.io/badge/Python-773EC0?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-513F6F?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vnj64)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vnj644)
