@@ -1,7 +1,7 @@
 [![Header](https://github.com/vnj64/vnj64/blob/main/assets/github.png)](https://en.wikipedia.org/wiki/Anonymous_(hacker_group)#:~:text=Anonymous%20is%20a%20decentralized%20international,and%20the%20Church%20of%20Scientology.)
  
 ## I`m Python Backend Developer.
-I am a Backend Java Developer and for today I have a bunch of useful skills in coding. There are some of them:
+I am a Backend Python Developer and for today I have a bunch of useful skills in coding. There are some of them:
 
 * Python
 * FastAPI
