@@ -10,6 +10,7 @@ I am a Backend Python Developer and for today I have a bunch of useful skills in
 * Flask
 * Docker/Docker-compose
 * SQL
+* Kubernetes
 
   and some additional skills like Linux and PostgreSQL.
   
