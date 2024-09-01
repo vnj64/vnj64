@@ -1,22 +1,20 @@
 [![Header](https://github.com/vnj64/vnj64/blob/main/assets/github.png)](https://en.wikipedia.org/wiki/Anonymous_(hacker_group)#:~:text=Anonymous%20is%20a%20decentralized%20international,and%20the%20Church%20of%20Scientology.)
  
-## I`m Python Backend Developer.
-I am a Backend Python Developer and for today I have a bunch of useful skills in coding. There are some of them:
+## I`m Golang Backend Developer.
+I am a Backend Golang Developer and for today I have a bunch of useful skills in coding. There are some of them:
 
-* Python
-* FastAPI
-* Django
+* Golang
+* Fiber
+* Gin
 * Git/GitHub/GitLab
-* Flask
+* PostgreSQL
+* MySQL
 * Docker/Docker-compose
-* SQL
 * Kubernetes
-
-  and some additional skills like Linux and PostgreSQL.
+* Linux
   
 ### I am not planning to stop at this point, this is just a milestone but not the destination
 
-* I`m currently working on [REST Service SpringBoot](https://github.com/vnj64/springboot-bookshop).
 * How to reach me? tg: [@arszdarszd](https://t.me/arszdarszd)
 
 ## Languages and Tools
