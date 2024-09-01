@@ -4,6 +4,8 @@
 I am a Backend Golang Developer and for today I have a bunch of useful skills in coding. There are some of them:
 
 * Golang
+* Java
+* Python
 * Fiber
 * Gin
 * Git/GitHub/GitLab
